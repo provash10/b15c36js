@@ -1,5 +1,4 @@
 Class-36 JS DOM (34 & 35)
-https://www.facebook.com/muntasir.fahim8/videos/1335868397784055/?idorvanity=7295095747278784
 =====================
 *****Create Element Function of js >>> Single quotation
 *****append Function
